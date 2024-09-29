@@ -1,5 +1,5 @@
 ## Ian Benedict Murillo's Portfolio 
-    Hello everyone! This is my personal portfolio website built using simple HTML. It includes my skills, all the projects that I made, and my contact to reach me out.
+ Hello everyone! This is my personal portfolio website built using simple HTML. It includes my skills, all the projects that I made, and my contact to reach me out.
 
 ## How to Run the Project Locally 
 To run the website locally using VSCode Live Server, follow these steps:
